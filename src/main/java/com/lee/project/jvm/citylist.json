@@ -1,0 +1,3425 @@
+[
+    {
+        "cnname": "北京",
+        "enname": "bj",
+        "id": 10,
+        "parentid": 0,
+        "typeid": 2
+    },
+    {
+        "10": [
+            {
+                "cnname": "东城",
+                "enname": "dongcheng",
+                "id": 10100,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "西城",
+                "enname": "xicheng",
+                "id": 10101,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "崇文",
+                "enname": "chongwen",
+                "id": 10102,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "宣武",
+                "enname": "xuanwu",
+                "id": 10103,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "朝阳",
+                "enname": "chaoyang",
+                "id": 10104,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "海淀",
+                "enname": "haidian",
+                "id": 10105,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "丰台",
+                "enname": "fengtai",
+                "id": 10106,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "石景山",
+                "enname": "shijingshan",
+                "id": 10107,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "通州",
+                "enname": "tongzhouqu",
+                "id": 10108,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "昌平",
+                "enname": "changping",
+                "id": 10109,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "房山",
+                "enname": "fangshan",
+                "id": 10110,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "大兴",
+                "enname": "daxing",
+                "id": 10111,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "顺义",
+                "enname": "shunyi",
+                "id": 10112,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "密云",
+                "enname": "miyun",
+                "id": 10113,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "怀柔",
+                "enname": "huairou",
+                "id": 10114,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "延庆",
+                "enname": "yanqing",
+                "id": 10115,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "平谷",
+                "enname": "pinggu",
+                "id": 10116,
+                "parentid": 10,
+                "typeid": 3
+            },
+            {
+                "cnname": "门头沟",
+                "enname": "mentougou",
+                "id": 10117,
+                "parentid": 10,
+                "typeid": 3
+            }
+        ]
+    },
+    {
+        "cnname": "天津",
+        "enname": "tj",
+        "id": 11,
+        "parentid": 0,
+        "typeid": 2
+    },
+    {
+        "11": [
+            {
+                "cnname": "和平",
+                "enname": "heping",
+                "id": 11100,
+                "parentid": 11,
+                "typeid": 3
+            },
+            {
+                "cnname": "河东",
+                "enname": "hedong",
+                "id": 11101,
+                "parentid": 11,
+                "typeid": 3
+            },
+            {
+                "cnname": "河西",
+                "enname": "hexi",
+                "id": 11102,
+                "parentid": 11,
+                "typeid": 3
+            },
+            {
+                "cnname": "南开",
+                "enname": "nankai",
+                "id": 11103,
+                "parentid": 11,
+                "typeid": 3
+            },
+            {
+                "cnname": "河北",
+                "enname": "hebeiqu",
+                "id": 11104,
+                "parentid": 11,
+                "typeid": 3
+            },
+            {
+                "cnname": "塘沽",
+                "enname": "tanggu",
+                "id": 11105,
+                "parentid": 11,
+                "typeid": 3
+            },
+            {
+                "cnname": "大港",
+                "enname": "dagang",
+                "id": 11106,
+                "parentid": 11,
+                "typeid": 3
+            },
+            {
+                "cnname": "红桥",
+                "enname": "hongqiaotj",
+                "id": 11107,
+                "parentid": 11,
+                "typeid": 3
+            },
+            {
+                "cnname": "东丽",
+                "enname": "donglitj",
+                "id": 11108,
+                "parentid": 11,
+                "typeid": 3
+            },
+            {
+                "cnname": "西青",
+                "enname": "xiqingtj",
+                "id": 11109,
+                "parentid": 11,
+                "typeid": 3
+            },
+            {
+                "cnname": "北辰",
+                "enname": "beichentj",
+                "id": 11110,
+                "parentid": 11,
+                "typeid": 3
+            },
+            {
+                "cnname": "津南",
+                "enname": "jinnantj",
+                "id": 11111,
+                "parentid": 11,
+                "typeid": 3
+            },
+            {
+                "cnname": "开发区",
+                "enname": "tjkaifaqu",
+                "id": 11112,
+                "parentid": 11,
+                "typeid": 3
+            }
+        ]
+    },
+    {
+        "cnname": "上海",
+        "enname": "sh",
+        "id": 12,
+        "parentid": 0,
+        "typeid": 2
+    },
+    {
+        "12": [
+            {
+                "cnname": "黄浦",
+                "enname": "huangpu",
+                "id": 12100,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "卢湾",
+                "enname": "luwan",
+                "id": 12101,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "徐汇",
+                "enname": "xuhui",
+                "id": 12102,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "长宁",
+                "enname": "changning",
+                "id": 12103,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "静安",
+                "enname": "jingan",
+                "id": 12104,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "普陀",
+                "enname": "putuo",
+                "id": 12105,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "闸北",
+                "enname": "zhabei",
+                "id": 12106,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "虹口",
+                "enname": "hongkou",
+                "id": 12107,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "杨浦",
+                "enname": "yangpu",
+                "id": 12108,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "浦东",
+                "enname": "pudongxinqu",
+                "id": 12109,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "闵行",
+                "enname": "minxing",
+                "id": 12110,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "宝山",
+                "enname": "baoshan",
+                "id": 12111,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "嘉定",
+                "enname": "jiading",
+                "id": 12112,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "青浦",
+                "enname": "qingpu",
+                "id": 12113,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "奉贤",
+                "enname": "fengxiansh",
+                "id": 12114,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "南汇",
+                "enname": "nanhui",
+                "id": 12115,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "崇明",
+                "enname": "chongming",
+                "id": 12116,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "金山",
+                "enname": "jinshan",
+                "id": 12117,
+                "parentid": 12,
+                "typeid": 3
+            },
+            {
+                "cnname": "松江",
+                "enname": "songjiang",
+                "id": 12118,
+                "parentid": 12,
+                "typeid": 3
+            }
+        ]
+    },
+    {
+        "cnname": "重庆",
+        "enname": "cq",
+        "id": 13,
+        "parentid": 0,
+        "typeid": 2
+    },
+    {
+        "13": [
+            {
+                "cnname": "渝中",
+                "enname": "yuzhong",
+                "id": 13100,
+                "parentid": 13,
+                "typeid": 3
+            },
+            {
+                "cnname": "大渡口",
+                "enname": "dadukou",
+                "id": 13101,
+                "parentid": 13,
+                "typeid": 3
+            },
+            {
+                "cnname": "江北",
+                "enname": "jiangbei",
+                "id": 13102,
+                "parentid": 13,
+                "typeid": 3
+            },
+            {
+                "cnname": "沙坪坝",
+                "enname": "shapingba",
+                "id": 13103,
+                "parentid": 13,
+                "typeid": 3
+            },
+            {
+                "cnname": "九龙坡",
+                "enname": "jiulongpo",
+                "id": 13104,
+                "parentid": 13,
+                "typeid": 3
+            },
+            {
+                "cnname": "南岸",
+                "enname": "nanan",
+                "id": 13105,
+                "parentid": 13,
+                "typeid": 3
+            },
+            {
+                "cnname": "北碚",
+                "enname": "beibei",
+                "id": 13106,
+                "parentid": 13,
+                "typeid": 3
+            },
+            {
+                "cnname": "渝北",
+                "enname": "yubei",
+                "id": 13107,
+                "parentid": 13,
+                "typeid": 3
+            },
+            {
+                "cnname": "巴南",
+                "enname": "banan",
+                "id": 13108,
+                "parentid": 13,
+                "typeid": 3
+            }
+        ]
+    },
+    {
+        "cnname": "河北",
+        "enname": "河北",
+        "id": 14,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "14": [
+            {
+                "cnname": "保定",
+                "enname": "bd",
+                "id": 14100,
+                "parentid": 14,
+                "typeid": 2
+            },
+            {
+                "cnname": "沧州",
+                "enname": "cangzhou",
+                "id": 14101,
+                "parentid": 14,
+                "typeid": 2
+            },
+            {
+                "cnname": "承德",
+                "enname": "chengde",
+                "id": 14102,
+                "parentid": 14,
+                "typeid": 2
+            },
+            {
+                "cnname": "定州",
+                "enname": "dingzhou",
+                "id": 14103,
+                "parentid": 14,
+                "typeid": 2
+            },
+            {
+                "cnname": "馆陶",
+                "enname": "gt",
+                "id": 14104,
+                "parentid": 14,
+                "typeid": 2
+            },
+            {
+                "cnname": "邯郸",
+                "enname": "hd",
+                "id": 14105,
+                "parentid": 14,
+                "typeid": 2
+            },
+            {
+                "cnname": "衡水",
+                "enname": "hs",
+                "id": 14106,
+                "parentid": 14,
+                "typeid": 2
+            },
+            {
+                "cnname": "廊坊",
+                "enname": "lf",
+                "id": 14107,
+                "parentid": 14,
+                "typeid": 2
+            },
+            {
+                "cnname": "秦皇岛",
+                "enname": "qhd",
+                "id": 14108,
+                "parentid": 14,
+                "typeid": 2
+            },
+            {
+                "cnname": "石家庄",
+                "enname": "sjz",
+                "id": 14109,
+                "parentid": 14,
+                "typeid": 2
+            },
+            {
+                "cnname": "唐山",
+                "enname": "ts",
+                "id": 14110,
+                "parentid": 14,
+                "typeid": 2
+            },
+            {
+                "cnname": "邢台",
+                "enname": "xt",
+                "id": 14111,
+                "parentid": 14,
+                "typeid": 2
+            },
+            {
+                "cnname": "张家口",
+                "enname": "zjk",
+                "id": 14112,
+                "parentid": 14,
+                "typeid": 2
+            },
+            {
+                "cnname": "正定",
+                "enname": "zd",
+                "id": 14113,
+                "parentid": 14,
+                "typeid": 2
+            },
+            {
+                "cnname": "赵县",
+                "enname": "zx",
+                "id": 14114,
+                "parentid": 14,
+                "typeid": 2
+            },
+            {
+                "cnname": "张北",
+                "enname": "zhangbei",
+                "id": 14115,
+                "parentid": 14,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "河南",
+        "enname": "河南",
+        "id": 15,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "15": [
+            {
+                "cnname": "安阳",
+                "enname": "ay",
+                "id": 15100,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "长葛",
+                "enname": "changge",
+                "id": 15101,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "鹤壁",
+                "enname": "hb",
+                "id": 15102,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "焦作",
+                "enname": "jiaozuo",
+                "id": 15103,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "济源",
+                "enname": "jiyuan",
+                "id": 15104,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "开封",
+                "enname": "kaifeng",
+                "id": 15105,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "洛阳",
+                "enname": "luoyang",
+                "id": 15106,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "漯河",
+                "enname": "luohe",
+                "id": 15107,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "明港",
+                "enname": "mg",
+                "id": 15108,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "南阳",
+                "enname": "ny",
+                "id": 15109,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "平顶山",
+                "enname": "pds",
+                "id": 15110,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "濮阳",
+                "enname": "puyang",
+                "id": 15111,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "商丘",
+                "enname": "sq",
+                "id": 15112,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "三门峡",
+                "enname": "smx",
+                "id": 15113,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "新乡",
+                "enname": "xx",
+                "id": 15114,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "许昌",
+                "enname": "xc",
+                "id": 15115,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "信阳",
+                "enname": "xy",
+                "id": 15116,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "禹州",
+                "enname": "yuzhou",
+                "id": 15117,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "鄢陵",
+                "enname": "yanling",
+                "id": 15118,
+                "parentid": 15,
+                "typeid": 2
+            },
+            {
+                "cnname": "郑州",
+                "enname": "zz",
+                "id": 15119,
+                "parentid": 15,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "黑龙江",
+        "enname": "黑龙江",
+        "id": 16,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "16": [
+            {
+                "cnname": "大庆",
+                "enname": "dq",
+                "id": 16100,
+                "parentid": 16,
+                "typeid": 2
+            },
+            {
+                "cnname": "大兴安岭",
+                "enname": "dxal",
+                "id": 16101,
+                "parentid": 16,
+                "typeid": 2
+            },
+            {
+                "cnname": "哈尔滨",
+                "enname": "hrb",
+                "id": 16102,
+                "parentid": 16,
+                "typeid": 2
+            },
+            {
+                "cnname": "鹤岗",
+                "enname": "hegang",
+                "id": 16103,
+                "parentid": 16,
+                "typeid": 2
+            },
+            {
+                "cnname": "黑河",
+                "enname": "heihe",
+                "id": 16104,
+                "parentid": 16,
+                "typeid": 2
+            },
+            {
+                "cnname": "佳木斯",
+                "enname": "jms",
+                "id": 16105,
+                "parentid": 16,
+                "typeid": 2
+            },
+            {
+                "cnname": "鸡西",
+                "enname": "jixi",
+                "id": 16106,
+                "parentid": 16,
+                "typeid": 2
+            },
+            {
+                "cnname": "牡丹江",
+                "enname": "mdj",
+                "id": 16107,
+                "parentid": 16,
+                "typeid": 2
+            },
+            {
+                "cnname": "齐齐哈尔",
+                "enname": "qqhr",
+                "id": 16108,
+                "parentid": 16,
+                "typeid": 2
+            },
+            {
+                "cnname": "七台河",
+                "enname": "qth",
+                "id": 16109,
+                "parentid": 16,
+                "typeid": 2
+            },
+            {
+                "cnname": "绥化",
+                "enname": "suihua",
+                "id": 16110,
+                "parentid": 16,
+                "typeid": 2
+            },
+            {
+                "cnname": "双鸭山",
+                "enname": "sys",
+                "id": 16111,
+                "parentid": 16,
+                "typeid": 2
+            },
+            {
+                "cnname": "伊春",
+                "enname": "yich",
+                "id": 16112,
+                "parentid": 16,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "吉林",
+        "enname": "吉林",
+        "id": 17,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "17": [
+            {
+                "cnname": "白城",
+                "enname": "bc",
+                "id": 17100,
+                "parentid": 17,
+                "typeid": 2
+            },
+            {
+                "cnname": "白山",
+                "enname": "baishan",
+                "id": 17101,
+                "parentid": 17,
+                "typeid": 2
+            },
+            {
+                "cnname": "长春",
+                "enname": "cc",
+                "id": 17102,
+                "parentid": 17,
+                "typeid": 2
+            },
+            {
+                "cnname": "吉林",
+                "enname": "jl",
+                "id": 17103,
+                "parentid": 17,
+                "typeid": 2
+            },
+            {
+                "cnname": "辽源",
+                "enname": "liaoyuan",
+                "id": 17104,
+                "parentid": 17,
+                "typeid": 2
+            },
+            {
+                "cnname": "松原",
+                "enname": "songyuan",
+                "id": 17105,
+                "parentid": 17,
+                "typeid": 2
+            },
+            {
+                "cnname": "四平",
+                "enname": "sp",
+                "id": 17106,
+                "parentid": 17,
+                "typeid": 2
+            },
+            {
+                "cnname": "通化",
+                "enname": "th",
+                "id": 17107,
+                "parentid": 17,
+                "typeid": 2
+            },
+            {
+                "cnname": "延边",
+                "enname": "yanbian",
+                "id": 17108,
+                "parentid": 17,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "辽宁",
+        "enname": "辽宁",
+        "id": 18,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "18": [
+            {
+                "cnname": "鞍山",
+                "enname": "as",
+                "id": 18100,
+                "parentid": 18,
+                "typeid": 2
+            },
+            {
+                "cnname": "本溪",
+                "enname": "benxi",
+                "id": 18101,
+                "parentid": 18,
+                "typeid": 2
+            },
+            {
+                "cnname": "朝阳",
+                "enname": "cy",
+                "id": 18102,
+                "parentid": 18,
+                "typeid": 2
+            },
+            {
+                "cnname": "大连",
+                "enname": "dl",
+                "id": 18103,
+                "parentid": 18,
+                "typeid": 2
+            },
+            {
+                "cnname": "丹东",
+                "enname": "dandong",
+                "id": 18104,
+                "parentid": 18,
+                "typeid": 2
+            },
+            {
+                "cnname": "抚顺",
+                "enname": "fushun",
+                "id": 18105,
+                "parentid": 18,
+                "typeid": 2
+            },
+            {
+                "cnname": "阜新",
+                "enname": "fx",
+                "id": 18106,
+                "parentid": 18,
+                "typeid": 2
+            },
+            {
+                "cnname": "葫芦岛",
+                "enname": "hld",
+                "id": 18107,
+                "parentid": 18,
+                "typeid": 2
+            },
+            {
+                "cnname": "锦州",
+                "enname": "jinzhou",
+                "id": 18108,
+                "parentid": 18,
+                "typeid": 2
+            },
+            {
+                "cnname": "辽阳",
+                "enname": "liaoyang",
+                "id": 18109,
+                "parentid": 18,
+                "typeid": 2
+            },
+            {
+                "cnname": "盘锦",
+                "enname": "pj",
+                "id": 18110,
+                "parentid": 18,
+                "typeid": 2
+            },
+            {
+                "cnname": "沈阳",
+                "enname": "sy",
+                "id": 18111,
+                "parentid": 18,
+                "typeid": 2
+            },
+            {
+                "cnname": "铁岭",
+                "enname": "tl",
+                "id": 18112,
+                "parentid": 18,
+                "typeid": 2
+            },
+            {
+                "cnname": "瓦房店",
+                "enname": "wfd",
+                "id": 18113,
+                "parentid": 18,
+                "typeid": 2
+            },
+            {
+                "cnname": "营口",
+                "enname": "yk",
+                "id": 18114,
+                "parentid": 18,
+                "typeid": 2
+            },
+            {
+                "cnname": "庄河",
+                "enname": "pld",
+                "id": 18115,
+                "parentid": 18,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "山东",
+        "enname": "山东",
+        "id": 19,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "19": [
+            {
+                "cnname": "滨州",
+                "enname": "bz",
+                "id": 19100,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "德州",
+                "enname": "dz",
+                "id": 19101,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "东营",
+                "enname": "dy",
+                "id": 19102,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "菏泽",
+                "enname": "heze",
+                "id": 19103,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "济南",
+                "enname": "jn",
+                "id": 19104,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "济宁",
+                "enname": "jining",
+                "id": 19105,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "垦利",
+                "enname": "kl",
+                "id": 19106,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "临沂",
+                "enname": "linyi",
+                "id": 19107,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "聊城",
+                "enname": "lc",
+                "id": 19108,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "莱芜",
+                "enname": "lw",
+                "id": 19109,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "青岛",
+                "enname": "qd",
+                "id": 19110,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "日照",
+                "enname": "rizhao",
+                "id": 19111,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "泰安",
+                "enname": "ta",
+                "id": 19112,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "潍坊",
+                "enname": "wf",
+                "id": 19113,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "威海",
+                "enname": "weihai",
+                "id": 19114,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "烟台",
+                "enname": "yt",
+                "id": 19115,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "淄博",
+                "enname": "zb",
+                "id": 19116,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "枣庄",
+                "enname": "zaozhuang",
+                "id": 19117,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "章丘",
+                "enname": "zhangqiu",
+                "id": 19118,
+                "parentid": 19,
+                "typeid": 2
+            },
+            {
+                "cnname": "诸城",
+                "enname": "zc",
+                "id": 19119,
+                "parentid": 19,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "内蒙古",
+        "enname": "内蒙古",
+        "id": 20,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "20": [
+            {
+                "cnname": "阿拉善盟",
+                "enname": "alsm",
+                "id": 20100,
+                "parentid": 20,
+                "typeid": 2
+            },
+            {
+                "cnname": "包头",
+                "enname": "bt",
+                "id": 20101,
+                "parentid": 20,
+                "typeid": 2
+            },
+            {
+                "cnname": "巴彦淖尔市",
+                "enname": "bycem",
+                "id": 20102,
+                "parentid": 20,
+                "typeid": 2
+            },
+            {
+                "cnname": "赤峰",
+                "enname": "chifeng",
+                "id": 20103,
+                "parentid": 20,
+                "typeid": 2
+            },
+            {
+                "cnname": "鄂尔多斯",
+                "enname": "erds",
+                "id": 20104,
+                "parentid": 20,
+                "typeid": 2
+            },
+            {
+                "cnname": "呼和浩特",
+                "enname": "hu",
+                "id": 20105,
+                "parentid": 20,
+                "typeid": 2
+            },
+            {
+                "cnname": "呼伦贝尔",
+                "enname": "hlbe",
+                "id": 20106,
+                "parentid": 20,
+                "typeid": 2
+            },
+            {
+                "cnname": "海拉尔",
+                "enname": "hlr",
+                "id": 20107,
+                "parentid": 20,
+                "typeid": 2
+            },
+            {
+                "cnname": "通辽",
+                "enname": "tongliao",
+                "id": 20108,
+                "parentid": 20,
+                "typeid": 2
+            },
+            {
+                "cnname": "乌海",
+                "enname": "wuhai",
+                "id": 20109,
+                "parentid": 20,
+                "typeid": 2
+            },
+            {
+                "cnname": "乌兰察布",
+                "enname": "wlcb",
+                "id": 20110,
+                "parentid": 20,
+                "typeid": 2
+            },
+            {
+                "cnname": "锡林郭勒",
+                "enname": "xl",
+                "id": 20111,
+                "parentid": 20,
+                "typeid": 2
+            },
+            {
+                "cnname": "兴安盟",
+                "enname": "xam",
+                "id": 20112,
+                "parentid": 20,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "江苏",
+        "enname": "江苏",
+        "id": 21,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "21": [
+            {
+                "cnname": "常州",
+                "enname": "cz",
+                "id": 21100,
+                "parentid": 21,
+                "typeid": 2
+            },
+            {
+                "cnname": "大丰",
+                "enname": "dafeng",
+                "id": 21101,
+                "parentid": 21,
+                "typeid": 2
+            },
+            {
+                "cnname": "淮安",
+                "enname": "ha",
+                "id": 21102,
+                "parentid": 21,
+                "typeid": 2
+            },
+            {
+                "cnname": "连云港",
+                "enname": "lyg",
+                "id": 21103,
+                "parentid": 21,
+                "typeid": 2
+            },
+            {
+                "cnname": "南京",
+                "enname": "nj",
+                "id": 21104,
+                "parentid": 21,
+                "typeid": 2
+            },
+            {
+                "cnname": "南通",
+                "enname": "nt",
+                "id": 21105,
+                "parentid": 21,
+                "typeid": 2
+            },
+            {
+                "cnname": "苏州",
+                "enname": "su",
+                "id": 21106,
+                "parentid": 21,
+                "typeid": 2
+            },
+            {
+                "cnname": "沭阳",
+                "enname": "shuyang",
+                "id": 21107,
+                "parentid": 21,
+                "typeid": 2
+            },
+            {
+                "cnname": "宿迁",
+                "enname": "suqian",
+                "id": 21108,
+                "parentid": 21,
+                "typeid": 2
+            },
+            {
+                "cnname": "泰州",
+                "enname": "taizhou",
+                "id": 21109,
+                "parentid": 21,
+                "typeid": 2
+            },
+            {
+                "cnname": "无锡",
+                "enname": "wx",
+                "id": 21110,
+                "parentid": 21,
+                "typeid": 2
+            },
+            {
+                "cnname": "徐州",
+                "enname": "xz",
+                "id": 21111,
+                "parentid": 21,
+                "typeid": 2
+            },
+            {
+                "cnname": "扬州",
+                "enname": "yz",
+                "id": 21112,
+                "parentid": 21,
+                "typeid": 2
+            },
+            {
+                "cnname": "盐城",
+                "enname": "yancheng",
+                "id": 21113,
+                "parentid": 21,
+                "typeid": 2
+            },
+            {
+                "cnname": "镇江",
+                "enname": "zj",
+                "id": 21114,
+                "parentid": 21,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "安徽",
+        "enname": "安徽",
+        "id": 22,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "22": [
+            {
+                "cnname": "安庆",
+                "enname": "anqing",
+                "id": 22100,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "蚌埠",
+                "enname": "bengbu",
+                "id": 22101,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "亳州",
+                "enname": "bozhou",
+                "id": 22102,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "巢湖",
+                "enname": "ch",
+                "id": 22103,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "池州",
+                "enname": "chizhou",
+                "id": 22104,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "滁州",
+                "enname": "chuzhou",
+                "id": 22105,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "阜阳",
+                "enname": "fy",
+                "id": 22106,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "合肥",
+                "enname": "hf",
+                "id": 22107,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "淮南",
+                "enname": "hn",
+                "id": 22108,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "淮北",
+                "enname": "huaibei",
+                "id": 22109,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "黄山",
+                "enname": "huangshan",
+                "id": 22110,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "和县",
+                "enname": "hexian",
+                "id": 22111,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "霍邱",
+                "enname": "hq",
+                "id": 22112,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "六安",
+                "enname": "la",
+                "id": 22113,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "马鞍山",
+                "enname": "mas",
+                "id": 22114,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "宿州",
+                "enname": "suzhou",
+                "id": 22115,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "铜陵",
+                "enname": "tongling",
+                "id": 22116,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "桐城",
+                "enname": "tongcheng",
+                "id": 22117,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "芜湖",
+                "enname": "wuhu",
+                "id": 22118,
+                "parentid": 22,
+                "typeid": 2
+            },
+            {
+                "cnname": "宣城",
+                "enname": "xuancheng",
+                "id": 22119,
+                "parentid": 22,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "山西",
+        "enname": "山西",
+        "id": 23,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "23": [
+            {
+                "cnname": "长治",
+                "enname": "changzhi",
+                "id": 23100,
+                "parentid": 23,
+                "typeid": 2
+            },
+            {
+                "cnname": "大同",
+                "enname": "dt",
+                "id": 23101,
+                "parentid": 23,
+                "typeid": 2
+            },
+            {
+                "cnname": "晋城",
+                "enname": "jincheng",
+                "id": 23102,
+                "parentid": 23,
+                "typeid": 2
+            },
+            {
+                "cnname": "晋中",
+                "enname": "jz",
+                "id": 23103,
+                "parentid": 23,
+                "typeid": 2
+            },
+            {
+                "cnname": "吕梁",
+                "enname": "lvliang",
+                "id": 23104,
+                "parentid": 23,
+                "typeid": 2
+            },
+            {
+                "cnname": "临汾",
+                "enname": "linfen",
+                "id": 23105,
+                "parentid": 23,
+                "typeid": 2
+            },
+            {
+                "cnname": "临猗",
+                "enname": "linyixian",
+                "id": 23106,
+                "parentid": 23,
+                "typeid": 2
+            },
+            {
+                "cnname": "清徐",
+                "enname": "qingxu",
+                "id": 23107,
+                "parentid": 23,
+                "typeid": 2
+            },
+            {
+                "cnname": "朔州",
+                "enname": "shuozhou",
+                "id": 23108,
+                "parentid": 23,
+                "typeid": 2
+            },
+            {
+                "cnname": "太原",
+                "enname": "ty",
+                "id": 23109,
+                "parentid": 23,
+                "typeid": 2
+            },
+            {
+                "cnname": "忻州",
+                "enname": "xinzhou",
+                "id": 23110,
+                "parentid": 23,
+                "typeid": 2
+            },
+            {
+                "cnname": "运城",
+                "enname": "yuncheng",
+                "id": 23111,
+                "parentid": 23,
+                "typeid": 2
+            },
+            {
+                "cnname": "阳泉",
+                "enname": "yq",
+                "id": 23112,
+                "parentid": 23,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "陕西",
+        "enname": "陕西",
+        "id": 24,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "24": [
+            {
+                "cnname": "安康",
+                "enname": "ankang",
+                "id": 24100,
+                "parentid": 24,
+                "typeid": 2
+            },
+            {
+                "cnname": "宝鸡",
+                "enname": "baoji",
+                "id": 24101,
+                "parentid": 24,
+                "typeid": 2
+            },
+            {
+                "cnname": "汉中",
+                "enname": "hanzhong",
+                "id": 24102,
+                "parentid": 24,
+                "typeid": 2
+            },
+            {
+                "cnname": "商洛",
+                "enname": "sl",
+                "id": 24103,
+                "parentid": 24,
+                "typeid": 2
+            },
+            {
+                "cnname": "铜川",
+                "enname": "tc",
+                "id": 24104,
+                "parentid": 24,
+                "typeid": 2
+            },
+            {
+                "cnname": "渭南",
+                "enname": "wn",
+                "id": 24105,
+                "parentid": 24,
+                "typeid": 2
+            },
+            {
+                "cnname": "西安",
+                "enname": "xa",
+                "id": 24106,
+                "parentid": 24,
+                "typeid": 2
+            },
+            {
+                "cnname": "咸阳",
+                "enname": "xianyang",
+                "id": 24107,
+                "parentid": 24,
+                "typeid": 2
+            },
+            {
+                "cnname": "延安",
+                "enname": "yanan",
+                "id": 24108,
+                "parentid": 24,
+                "typeid": 2
+            },
+            {
+                "cnname": "榆林",
+                "enname": "yl",
+                "id": 24109,
+                "parentid": 24,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "甘肃",
+        "enname": "甘肃",
+        "id": 25,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "25": [
+            {
+                "cnname": "白银",
+                "enname": "by",
+                "id": 25100,
+                "parentid": 25,
+                "typeid": 2
+            },
+            {
+                "cnname": "定西",
+                "enname": "dx",
+                "id": 25101,
+                "parentid": 25,
+                "typeid": 2
+            },
+            {
+                "cnname": "甘南",
+                "enname": "gn",
+                "id": 25102,
+                "parentid": 25,
+                "typeid": 2
+            },
+            {
+                "cnname": "金昌",
+                "enname": "jinchang",
+                "id": 25103,
+                "parentid": 25,
+                "typeid": 2
+            },
+            {
+                "cnname": "嘉峪关",
+                "enname": "jyg",
+                "id": 25104,
+                "parentid": 25,
+                "typeid": 2
+            },
+            {
+                "cnname": "酒泉",
+                "enname": "jq",
+                "id": 25105,
+                "parentid": 25,
+                "typeid": 2
+            },
+            {
+                "cnname": "兰州",
+                "enname": "lz",
+                "id": 25106,
+                "parentid": 25,
+                "typeid": 2
+            },
+            {
+                "cnname": "临夏",
+                "enname": "linxia",
+                "id": 25107,
+                "parentid": 25,
+                "typeid": 2
+            },
+            {
+                "cnname": "陇南",
+                "enname": "ln",
+                "id": 25108,
+                "parentid": 25,
+                "typeid": 2
+            },
+            {
+                "cnname": "平凉",
+                "enname": "pl",
+                "id": 25109,
+                "parentid": 25,
+                "typeid": 2
+            },
+            {
+                "cnname": "庆阳",
+                "enname": "qingyang",
+                "id": 25110,
+                "parentid": 25,
+                "typeid": 2
+            },
+            {
+                "cnname": "天水",
+                "enname": "tianshui",
+                "id": 25111,
+                "parentid": 25,
+                "typeid": 2
+            },
+            {
+                "cnname": "武威",
+                "enname": "wuwei",
+                "id": 25112,
+                "parentid": 25,
+                "typeid": 2
+            },
+            {
+                "cnname": "张掖",
+                "enname": "zhangye",
+                "id": 25113,
+                "parentid": 25,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "浙江",
+        "enname": "浙江",
+        "id": 26,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "26": [
+            {
+                "cnname": "杭州",
+                "enname": "hz",
+                "id": 26100,
+                "parentid": 26,
+                "typeid": 2
+            },
+            {
+                "cnname": "湖州",
+                "enname": "huzhou",
+                "id": 26101,
+                "parentid": 26,
+                "typeid": 2
+            },
+            {
+                "cnname": "嘉兴",
+                "enname": "jx",
+                "id": 26102,
+                "parentid": 26,
+                "typeid": 2
+            },
+            {
+                "cnname": "金华",
+                "enname": "jh",
+                "id": 26103,
+                "parentid": 26,
+                "typeid": 2
+            },
+            {
+                "cnname": "丽水",
+                "enname": "lishui",
+                "id": 26104,
+                "parentid": 26,
+                "typeid": 2
+            },
+            {
+                "cnname": "宁波",
+                "enname": "nb",
+                "id": 26105,
+                "parentid": 26,
+                "typeid": 2
+            },
+            {
+                "cnname": "衢州",
+                "enname": "quzhou",
+                "id": 26106,
+                "parentid": 26,
+                "typeid": 2
+            },
+            {
+                "cnname": "绍兴",
+                "enname": "sx",
+                "id": 26107,
+                "parentid": 26,
+                "typeid": 2
+            },
+            {
+                "cnname": "台州",
+                "enname": "tz",
+                "id": 26108,
+                "parentid": 26,
+                "typeid": 2
+            },
+            {
+                "cnname": "温州",
+                "enname": "wz",
+                "id": 26109,
+                "parentid": 26,
+                "typeid": 2
+            },
+            {
+                "cnname": "舟山",
+                "enname": "zhoushan",
+                "id": 26110,
+                "parentid": 26,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "江西",
+        "enname": "江西",
+        "id": 27,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "27": [
+            {
+                "cnname": "抚州",
+                "enname": "fuzhou",
+                "id": 27100,
+                "parentid": 27,
+                "typeid": 2
+            },
+            {
+                "cnname": "赣州",
+                "enname": "ganzhou",
+                "id": 27101,
+                "parentid": 27,
+                "typeid": 2
+            },
+            {
+                "cnname": "九江",
+                "enname": "jj",
+                "id": 27102,
+                "parentid": 27,
+                "typeid": 2
+            },
+            {
+                "cnname": "吉安",
+                "enname": "ja",
+                "id": 27103,
+                "parentid": 27,
+                "typeid": 2
+            },
+            {
+                "cnname": "景德镇",
+                "enname": "jdz",
+                "id": 27104,
+                "parentid": 27,
+                "typeid": 2
+            },
+            {
+                "cnname": "南昌",
+                "enname": "nc",
+                "id": 27105,
+                "parentid": 27,
+                "typeid": 2
+            },
+            {
+                "cnname": "萍乡",
+                "enname": "px",
+                "id": 27106,
+                "parentid": 27,
+                "typeid": 2
+            },
+            {
+                "cnname": "上饶",
+                "enname": "sr",
+                "id": 27107,
+                "parentid": 27,
+                "typeid": 2
+            },
+            {
+                "cnname": "新余",
+                "enname": "xinyu",
+                "id": 27108,
+                "parentid": 27,
+                "typeid": 2
+            },
+            {
+                "cnname": "鹰潭",
+                "enname": "yingtan",
+                "id": 27109,
+                "parentid": 27,
+                "typeid": 2
+            },
+            {
+                "cnname": "宜春",
+                "enname": "yichun",
+                "id": 27110,
+                "parentid": 27,
+                "typeid": 2
+            },
+            {
+                "cnname": "永新",
+                "enname": "yxx",
+                "id": 27111,
+                "parentid": 27,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "湖北",
+        "enname": "湖北",
+        "id": 28,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "28": [
+            {
+                "cnname": "恩施",
+                "enname": "es",
+                "id": 28100,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "鄂州",
+                "enname": "ez",
+                "id": 28101,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "黄石",
+                "enname": "hshi",
+                "id": 28102,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "黄冈",
+                "enname": "hg",
+                "id": 28103,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "荆州",
+                "enname": "jingzhou",
+                "id": 28104,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "荆门",
+                "enname": "jingmen",
+                "id": 28105,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "潜江",
+                "enname": "qianjiang",
+                "id": 28106,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "十堰",
+                "enname": "shiyan",
+                "id": 28107,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "神农架",
+                "enname": "snj",
+                "id": 28108,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "随州",
+                "enname": "suizhou",
+                "id": 28109,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "天门",
+                "enname": "tm",
+                "id": 28110,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "武汉",
+                "enname": "wh",
+                "id": 28111,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "襄阳",
+                "enname": "xf",
+                "id": 28112,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "孝感",
+                "enname": "xiaogan",
+                "id": 28113,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "仙桃",
+                "enname": "xiantao",
+                "id": 28114,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "咸宁",
+                "enname": "xianning",
+                "id": 28115,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "宜昌",
+                "enname": "yc",
+                "id": 28116,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "恩施土家族苗族自治州",
+                "enname": "enshitujiazumiaozuzhizhizhou",
+                "id": 28301,
+                "parentid": 28,
+                "typeid": 2
+            },
+            {
+                "cnname": "襄樊",
+                "enname": "xiangfan",
+                "id": 28303,
+                "parentid": 28,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "湖南",
+        "enname": "湖南",
+        "id": 29,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "29": [
+            {
+                "cnname": "长沙",
+                "enname": "cs",
+                "id": 29100,
+                "parentid": 29,
+                "typeid": 2
+            },
+            {
+                "cnname": "常德",
+                "enname": "changde",
+                "id": 29101,
+                "parentid": 29,
+                "typeid": 2
+            },
+            {
+                "cnname": "郴州",
+                "enname": "chenzhou",
+                "id": 29102,
+                "parentid": 29,
+                "typeid": 2
+            },
+            {
+                "cnname": "衡阳",
+                "enname": "hy",
+                "id": 29103,
+                "parentid": 29,
+                "typeid": 2
+            },
+            {
+                "cnname": "怀化",
+                "enname": "hh",
+                "id": 29104,
+                "parentid": 29,
+                "typeid": 2
+            },
+            {
+                "cnname": "娄底",
+                "enname": "ld",
+                "id": 29105,
+                "parentid": 29,
+                "typeid": 2
+            },
+            {
+                "cnname": "邵阳",
+                "enname": "shaoyang",
+                "id": 29106,
+                "parentid": 29,
+                "typeid": 2
+            },
+            {
+                "cnname": "湘潭",
+                "enname": "xiangtan",
+                "id": 29107,
+                "parentid": 29,
+                "typeid": 2
+            },
+            {
+                "cnname": "湘西",
+                "enname": "xiangxi",
+                "id": 29108,
+                "parentid": 29,
+                "typeid": 2
+            },
+            {
+                "cnname": "岳阳",
+                "enname": "yy",
+                "id": 29109,
+                "parentid": 29,
+                "typeid": 2
+            },
+            {
+                "cnname": "永州",
+                "enname": "yongzhou",
+                "id": 29110,
+                "parentid": 29,
+                "typeid": 2
+            },
+            {
+                "cnname": "益阳",
+                "enname": "yiyang",
+                "id": 29111,
+                "parentid": 29,
+                "typeid": 2
+            },
+            {
+                "cnname": "株洲",
+                "enname": "zhuzhou",
+                "id": 29112,
+                "parentid": 29,
+                "typeid": 2
+            },
+            {
+                "cnname": "张家界",
+                "enname": "zjj",
+                "id": 29113,
+                "parentid": 29,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "贵州",
+        "enname": "贵州",
+        "id": 30,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "30": [
+            {
+                "cnname": "安顺",
+                "enname": "anshun",
+                "id": 30100,
+                "parentid": 30,
+                "typeid": 2
+            },
+            {
+                "cnname": "毕节",
+                "enname": "bijie",
+                "id": 30101,
+                "parentid": 30,
+                "typeid": 2
+            },
+            {
+                "cnname": "贵阳",
+                "enname": "gy",
+                "id": 30102,
+                "parentid": 30,
+                "typeid": 2
+            },
+            {
+                "cnname": "六盘水",
+                "enname": "lps",
+                "id": 30103,
+                "parentid": 30,
+                "typeid": 2
+            },
+            {
+                "cnname": "黔东南",
+                "enname": "qdn",
+                "id": 30104,
+                "parentid": 30,
+                "typeid": 2
+            },
+            {
+                "cnname": "黔南",
+                "enname": "qn",
+                "id": 30105,
+                "parentid": 30,
+                "typeid": 2
+            },
+            {
+                "cnname": "黔西南",
+                "enname": "qxn",
+                "id": 30106,
+                "parentid": 30,
+                "typeid": 2
+            },
+            {
+                "cnname": "铜仁",
+                "enname": "tr",
+                "id": 30107,
+                "parentid": 30,
+                "typeid": 2
+            },
+            {
+                "cnname": "遵义",
+                "enname": "zunyi",
+                "id": 30108,
+                "parentid": 30,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "四川",
+        "enname": "四川",
+        "id": 31,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "31": [
+            {
+                "cnname": "阿坝",
+                "enname": "ab",
+                "id": 31100,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "巴中",
+                "enname": "bazhong",
+                "id": 31101,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "成都",
+                "enname": "cd",
+                "id": 31102,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "德阳",
+                "enname": "deyang",
+                "id": 31103,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "达州",
+                "enname": "dazhou",
+                "id": 31104,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "广安",
+                "enname": "ga",
+                "id": 31105,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "广元",
+                "enname": "guangyuan",
+                "id": 31106,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "甘孜",
+                "enname": "ganzi",
+                "id": 31107,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "乐山",
+                "enname": "ls",
+                "id": 31108,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "泸州",
+                "enname": "luzhou",
+                "id": 31109,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "凉山",
+                "enname": "liangshan",
+                "id": 31110,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "绵阳",
+                "enname": "mianyang",
+                "id": 31111,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "眉山",
+                "enname": "ms",
+                "id": 31112,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "内江",
+                "enname": "scnj",
+                "id": 31113,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "南充",
+                "enname": "nanchong",
+                "id": 31114,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "攀枝花",
+                "enname": "panzhihua",
+                "id": 31115,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "遂宁",
+                "enname": "suining",
+                "id": 31116,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "宜宾",
+                "enname": "yb",
+                "id": 31117,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "雅安",
+                "enname": "ya",
+                "id": 31118,
+                "parentid": 31,
+                "typeid": 2
+            },
+            {
+                "cnname": "自贡",
+                "enname": "zg",
+                "id": 31119,
+                "parentid": 31,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "云南",
+        "enname": "云南",
+        "id": 32,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "32": [
+            {
+                "cnname": "保山",
+                "enname": "bs",
+                "id": 32100,
+                "parentid": 32,
+                "typeid": 2
+            },
+            {
+                "cnname": "楚雄",
+                "enname": "cx",
+                "id": 32101,
+                "parentid": 32,
+                "typeid": 2
+            },
+            {
+                "cnname": "大理",
+                "enname": "dali",
+                "id": 32102,
+                "parentid": 32,
+                "typeid": 2
+            },
+            {
+                "cnname": "迪庆",
+                "enname": "diqing",
+                "id": 32103,
+                "parentid": 32,
+                "typeid": 2
+            },
+            {
+                "cnname": "德宏",
+                "enname": "dh",
+                "id": 32104,
+                "parentid": 32,
+                "typeid": 2
+            },
+            {
+                "cnname": "红河",
+                "enname": "honghe",
+                "id": 32105,
+                "parentid": 32,
+                "typeid": 2
+            },
+            {
+                "cnname": "昆明",
+                "enname": "km",
+                "id": 32106,
+                "parentid": 32,
+                "typeid": 2
+            },
+            {
+                "cnname": "丽江",
+                "enname": "lj",
+                "id": 32107,
+                "parentid": 32,
+                "typeid": 2
+            },
+            {
+                "cnname": "临沧",
+                "enname": "lincang",
+                "id": 32108,
+                "parentid": 32,
+                "typeid": 2
+            },
+            {
+                "cnname": "怒江",
+                "enname": "nujiang",
+                "id": 32109,
+                "parentid": 32,
+                "typeid": 2
+            },
+            {
+                "cnname": "普洱",
+                "enname": "pe",
+                "id": 32110,
+                "parentid": 32,
+                "typeid": 2
+            },
+            {
+                "cnname": "曲靖",
+                "enname": "qj",
+                "id": 32111,
+                "parentid": 32,
+                "typeid": 2
+            },
+            {
+                "cnname": "文山",
+                "enname": "ws",
+                "id": 32112,
+                "parentid": 32,
+                "typeid": 2
+            },
+            {
+                "cnname": "西双版纳",
+                "enname": "bn",
+                "id": 32113,
+                "parentid": 32,
+                "typeid": 2
+            },
+            {
+                "cnname": "玉溪",
+                "enname": "yx",
+                "id": 32114,
+                "parentid": 32,
+                "typeid": 2
+            },
+            {
+                "cnname": "昭通",
+                "enname": "zt",
+                "id": 32115,
+                "parentid": 32,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "新疆",
+        "enname": "新疆",
+        "id": 33,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "33": [
+            {
+                "cnname": "阿克苏",
+                "enname": "aks",
+                "id": 33100,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "阿拉尔",
+                "enname": "ale",
+                "id": 33101,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "巴音郭楞",
+                "enname": "bygl",
+                "id": 33102,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "博尔塔拉",
+                "enname": "betl",
+                "id": 33103,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "昌吉",
+                "enname": "changji",
+                "id": 33104,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "哈密",
+                "enname": "hami",
+                "id": 33105,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "和田",
+                "enname": "ht",
+                "id": 33106,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "克拉玛依",
+                "enname": "klmy",
+                "id": 33107,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "库尔勒",
+                "enname": "kel",
+                "id": 33108,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "喀什",
+                "enname": "ks",
+                "id": 33109,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "克孜勒苏",
+                "enname": "kzls",
+                "id": 33110,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "石河子",
+                "enname": "shz",
+                "id": 33111,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "吐鲁番",
+                "enname": "tlf",
+                "id": 33112,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "图木舒克",
+                "enname": "tmsk",
+                "id": 33113,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "乌鲁木齐",
+                "enname": "xj",
+                "id": 33114,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "五家渠",
+                "enname": "wjq",
+                "id": 33115,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "伊犁",
+                "enname": "yili",
+                "id": 33116,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "塔城",
+                "enname": "xiangfan",
+                "id": 33304,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "奎屯",
+                "enname": "kuitun",
+                "id": 33305,
+                "parentid": 33,
+                "typeid": 2
+            },
+            {
+                "cnname": "阿勒泰",
+                "enname": "aletai",
+                "id": 40304,
+                "parentid": 33,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "宁夏",
+        "enname": "宁夏",
+        "id": 34,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "34": [
+            {
+                "cnname": "固原",
+                "enname": "guyuan",
+                "id": 34100,
+                "parentid": 34,
+                "typeid": 2
+            },
+            {
+                "cnname": "石嘴山",
+                "enname": "szs",
+                "id": 34101,
+                "parentid": 34,
+                "typeid": 2
+            },
+            {
+                "cnname": "吴忠",
+                "enname": "wuzhong",
+                "id": 34102,
+                "parentid": 34,
+                "typeid": 2
+            },
+            {
+                "cnname": "银川",
+                "enname": "yinchuan",
+                "id": 34103,
+                "parentid": 34,
+                "typeid": 2
+            },
+            {
+                "cnname": "中卫",
+                "enname": "zw",
+                "id": 34104,
+                "parentid": 34,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "青海",
+        "enname": "青海",
+        "id": 35,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "35": [
+            {
+                "cnname": "果洛",
+                "enname": "guoluo",
+                "id": 35100,
+                "parentid": 35,
+                "typeid": 2
+            },
+            {
+                "cnname": "黄南",
+                "enname": "huangnan",
+                "id": 35101,
+                "parentid": 35,
+                "typeid": 2
+            },
+            {
+                "cnname": "海西",
+                "enname": "hx",
+                "id": 35102,
+                "parentid": 35,
+                "typeid": 2
+            },
+            {
+                "cnname": "海东",
+                "enname": "haidong",
+                "id": 35103,
+                "parentid": 35,
+                "typeid": 2
+            },
+            {
+                "cnname": "海北",
+                "enname": "haibei",
+                "id": 35104,
+                "parentid": 35,
+                "typeid": 2
+            },
+            {
+                "cnname": "海南",
+                "enname": "hainan",
+                "id": 35105,
+                "parentid": 35,
+                "typeid": 2
+            },
+            {
+                "cnname": "西宁",
+                "enname": "xn",
+                "id": 35106,
+                "parentid": 35,
+                "typeid": 2
+            },
+            {
+                "cnname": "玉树",
+                "enname": "ys",
+                "id": 35107,
+                "parentid": 35,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "西藏",
+        "enname": "西藏",
+        "id": 36,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "36": [
+            {
+                "cnname": "阿里",
+                "enname": "al",
+                "id": 36100,
+                "parentid": 36,
+                "typeid": 2
+            },
+            {
+                "cnname": "昌都",
+                "enname": "changdu",
+                "id": 36101,
+                "parentid": 36,
+                "typeid": 2
+            },
+            {
+                "cnname": "拉萨",
+                "enname": "lasa",
+                "id": 36102,
+                "parentid": 36,
+                "typeid": 2
+            },
+            {
+                "cnname": "林芝",
+                "enname": "linzhi",
+                "id": 36103,
+                "parentid": 36,
+                "typeid": 2
+            },
+            {
+                "cnname": "那曲",
+                "enname": "nq",
+                "id": 36104,
+                "parentid": 36,
+                "typeid": 2
+            },
+            {
+                "cnname": "日喀则",
+                "enname": "rkz",
+                "id": 36105,
+                "parentid": 36,
+                "typeid": 2
+            },
+            {
+                "cnname": "山南",
+                "enname": "sn",
+                "id": 36106,
+                "parentid": 36,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "广西",
+        "enname": "广西",
+        "id": 37,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "37": [
+            {
+                "cnname": "百色",
+                "enname": "baise",
+                "id": 37100,
+                "parentid": 37,
+                "typeid": 2
+            },
+            {
+                "cnname": "北海",
+                "enname": "bh",
+                "id": 37101,
+                "parentid": 37,
+                "typeid": 2
+            },
+            {
+                "cnname": "崇左",
+                "enname": "chongzuo",
+                "id": 37102,
+                "parentid": 37,
+                "typeid": 2
+            },
+            {
+                "cnname": "防城港",
+                "enname": "fcg",
+                "id": 37103,
+                "parentid": 37,
+                "typeid": 2
+            },
+            {
+                "cnname": "桂林",
+                "enname": "gl",
+                "id": 37104,
+                "parentid": 37,
+                "typeid": 2
+            },
+            {
+                "cnname": "贵港",
+                "enname": "gg",
+                "id": 37105,
+                "parentid": 37,
+                "typeid": 2
+            },
+            {
+                "cnname": "河池",
+                "enname": "hc",
+                "id": 37106,
+                "parentid": 37,
+                "typeid": 2
+            },
+            {
+                "cnname": "贺州",
+                "enname": "hezhou",
+                "id": 37107,
+                "parentid": 37,
+                "typeid": 2
+            },
+            {
+                "cnname": "柳州",
+                "enname": "liuzhou",
+                "id": 37108,
+                "parentid": 37,
+                "typeid": 2
+            },
+            {
+                "cnname": "来宾",
+                "enname": "lb",
+                "id": 37109,
+                "parentid": 37,
+                "typeid": 2
+            },
+            {
+                "cnname": "南宁",
+                "enname": "nn",
+                "id": 37110,
+                "parentid": 37,
+                "typeid": 2
+            },
+            {
+                "cnname": "钦州",
+                "enname": "qinzhou",
+                "id": 37111,
+                "parentid": 37,
+                "typeid": 2
+            },
+            {
+                "cnname": "梧州",
+                "enname": "wuzhou",
+                "id": 37112,
+                "parentid": 37,
+                "typeid": 2
+            },
+            {
+                "cnname": "玉林",
+                "enname": "yulin",
+                "id": 37113,
+                "parentid": 37,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "广东",
+        "enname": "广东",
+        "id": 38,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "38": [
+            {
+                "cnname": "潮州",
+                "enname": "chaozhou",
+                "id": 38100,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "东莞",
+                "enname": "dg",
+                "id": 38101,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "佛山",
+                "enname": "fs",
+                "id": 38102,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "广州",
+                "enname": "gz",
+                "id": 38103,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "惠州",
+                "enname": "huizhou",
+                "id": 38104,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "河源",
+                "enname": "heyuan",
+                "id": 38105,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "江门",
+                "enname": "jm",
+                "id": 38106,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "揭阳",
+                "enname": "jy",
+                "id": 38107,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "茂名",
+                "enname": "mm",
+                "id": 38108,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "梅州",
+                "enname": "mz",
+                "id": 38109,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "清远",
+                "enname": "qingyuan",
+                "id": 38110,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "顺德",
+                "enname": "sd",
+                "id": 38111,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "深圳",
+                "enname": "sz",
+                "id": 38112,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "汕头",
+                "enname": "st",
+                "id": 38113,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "韶关",
+                "enname": "sg",
+                "id": 38114,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "汕尾",
+                "enname": "sw",
+                "id": 38115,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "台山",
+                "enname": "taishan",
+                "id": 38116,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "阳江",
+                "enname": "yj",
+                "id": 38117,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "阳春",
+                "enname": "yangchun",
+                "id": 38118,
+                "parentid": 38,
+                "typeid": 2
+            },
+            {
+                "cnname": "云浮",
+                "enname": "yf",
+                "id": 38119,
+                "parentid": 38,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "福建",
+        "enname": "福建",
+        "id": 39,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "39": [
+            {
+                "cnname": "福州",
+                "enname": "fz",
+                "id": 39100,
+                "parentid": 39,
+                "typeid": 2
+            },
+            {
+                "cnname": "龙岩",
+                "enname": "ly",
+                "id": 39101,
+                "parentid": 39,
+                "typeid": 2
+            },
+            {
+                "cnname": "宁德",
+                "enname": "nd",
+                "id": 39102,
+                "parentid": 39,
+                "typeid": 2
+            },
+            {
+                "cnname": "南平",
+                "enname": "np",
+                "id": 39103,
+                "parentid": 39,
+                "typeid": 2
+            },
+            {
+                "cnname": "莆田",
+                "enname": "pt",
+                "id": 39104,
+                "parentid": 39,
+                "typeid": 2
+            },
+            {
+                "cnname": "泉州",
+                "enname": "qz",
+                "id": 39105,
+                "parentid": 39,
+                "typeid": 2
+            },
+            {
+                "cnname": "三明",
+                "enname": "sm",
+                "id": 39106,
+                "parentid": 39,
+                "typeid": 2
+            },
+            {
+                "cnname": "武夷山",
+                "enname": "wuyishan",
+                "id": 39107,
+                "parentid": 39,
+                "typeid": 2
+            },
+            {
+                "cnname": "厦门",
+                "enname": "xm",
+                "id": 39108,
+                "parentid": 39,
+                "typeid": 2
+            },
+            {
+                "cnname": "漳州",
+                "enname": "zhangzhou",
+                "id": 39109,
+                "parentid": 39,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "海南",
+        "enname": "海南",
+        "id": 40,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "40": [
+            {
+                "cnname": "海口",
+                "enname": "haikou",
+                "id": 40100,
+                "parentid": 40,
+                "typeid": 2
+            },
+            {
+                "cnname": "三亚",
+                "enname": "sanya",
+                "id": 40101,
+                "parentid": 40,
+                "typeid": 2
+            },
+            {
+                "cnname": "五指山",
+                "enname": "wzs",
+                "id": 40102,
+                "parentid": 40,
+                "typeid": 2
+            },
+            {
+                "cnname": "儋州",
+                "enname": "zhanzhou",
+                "id": 40103,
+                "parentid": 40,
+                "typeid": 2
+            },
+            {
+                "cnname": "三沙",
+                "enname": "sansha",
+                "id": 40104,
+                "parentid": 40,
+                "typeid": 2
+            },
+            {
+                "cnname": "琼海",
+                "enname": "qionghai",
+                "id": 40301,
+                "parentid": 40,
+                "typeid": 2
+            },
+            {
+                "cnname": "洋浦",
+                "enname": "yangpu",
+                "id": 40302,
+                "parentid": 40,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "台湾",
+        "enname": "台湾",
+        "id": 41,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "41": [
+            {
+                "cnname": "台湾",
+                "enname": "tw",
+                "id": 41100,
+                "parentid": 41,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "香港",
+        "enname": "香港",
+        "id": 42,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "42": [
+            {
+                "cnname": "香港",
+                "enname": "hk",
+                "id": 42100,
+                "parentid": 42,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "澳门",
+        "enname": "澳门",
+        "id": 43,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "43": [
+            {
+                "cnname": "澳门",
+                "enname": "am",
+                "id": 43100,
+                "parentid": 43,
+                "typeid": 2
+            }
+        ]
+    },
+    {
+        "cnname": "其他",
+        "enname": "其他",
+        "id": 44,
+        "parentid": 0,
+        "typeid": 1
+    },
+    {
+        "44": [
+            {
+                "cnname": "其他",
+                "enname": "cn",
+                "id": 44100,
+                "parentid": 44,
+                "typeid": 2
+            }
+        ]
+    }
+]
