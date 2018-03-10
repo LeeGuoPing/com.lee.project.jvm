@@ -20,6 +20,8 @@ public class CommandFailure extends HystrixCommand<String>{
 		throw new RuntimeException("this method is error!");
 	}
 	
+	
+	// 重写此方法实现服务降级
 	public String getFallback(){
 		return "fallback";
 	}
