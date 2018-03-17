@@ -57,4 +57,32 @@ public class NIOTest01 {
 		}
 
 	}
+	
+	@Test
+	public void similarCarTest(){
+		System.out.println(vinSimilar("KDJSIZJ3827492832", "KFJSIZJ3838492832"));
+	}
+	
+	public boolean vinSimilar(String carVin,String compareVin){
+		if(carVin==null || carVin.isEmpty() || carVin.length()<17){
+			return false;
+		}
+		
+		if(compareVin==null || compareVin.isEmpty()|| compareVin.length()<17){
+			return false;
+		}
+		
+		int sameCount = 0;
+		for(int i = 0;i<carVin.length();i++){
+			if(carVin.charAt(i)==compareVin.charAt(i)){
+				sameCount++;
+			}else{
+				continue;
+			}
+			
+		}
+		System.out.println(sameCount);
+		return sameCount>=15;
+		
+	}
 }
